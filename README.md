@@ -1,1 +1,1 @@
-Source COde for Bird Detection on Kria KV260
+Source Code for Bird Detection on Kria KV260
