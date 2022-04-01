@@ -1,5 +1,4 @@
 import os
-from playsound import playsound
 
 while True:
     output = os.popen('./birdDetection').read()
